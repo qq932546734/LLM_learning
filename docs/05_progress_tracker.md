@@ -4,6 +4,7 @@
 
 - 每次学习结束后新增一行
 - 分数按 [04_assessment_framework.md](/Users/didi/work/LLM_learning/docs/04_assessment_framework.md) 记录
+- 本节关键错误同步写入 [09_error_notebook.md](/Users/didi/work/LLM_learning/docs/09_error_notebook.md)
 
 ## 学习记录表
 
